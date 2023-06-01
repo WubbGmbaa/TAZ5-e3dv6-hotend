@@ -80,9 +80,9 @@ You will need the following to assemble the hotend
 3. Using the M3x10 and M3x20 bolts and M2 nuts, attach the fan mount bracket as shown. The longer bolts will attach the fan, and the shorter will connect to the shroud.
 ![Step 3 Assembly View](./IMG/55.jpg)
 4. Using the bolts from the original part cooling shroud, attach the fan bracket to the extruder plate. Adjust height as needed, then tighten the bolts.
-![Step 1 Assembly View](/IMG/58.jpg)
+![Step 1 Assembly View](./IMG/58.jpg)
 5. Plug the fan into the wire harness.
-![Step 1 Assembly View](/IMG/59.jpg)
+![Step 1 Assembly View](./IMG/59.jpg)
 
 ### Config Changes
 1. On the TAZ, under Configuration > Advanced Settings, set your Esteps/mm. I set mine to +0098.0 but yours may be slightly different depending on the extruder gear - see [this guide](https://all3dp.com/2/extruder-calibration-calibrate-e-steps/) for help calibrating.
