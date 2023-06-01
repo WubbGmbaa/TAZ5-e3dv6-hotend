@@ -3,7 +3,7 @@ Direct drive extruder using generic e3dv6 hotend parts for 1.75mm conversion on 
 
 ![Extruder Render](./render.png)
 
-CONFIG contains slicer presets. DOCS contains assembly instructions.
+CONFIG contains slicer presets. DOCS contains [assembly instructions](./DOCS/INSTRUCTIONS.MD).
 
 Files are also mirrored on [Thingiverse](https://www.thingiverse.com/thing:6055612) and [Printables](https://www.printables.com/model/495617-taz-5-175mm-conversion-using-e3d-v6)
 
